@@ -1,0 +1,27 @@
+{
+  "name": "mogodb-login-facebook",
+  "version": "1.0.0",
+  "description": "Build Facebook login into a Node/Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev":"nodemon" 
+  },
+  "keywords": ["Authenticate Node.js with Facebook using Auth0"],
+  "author": {
+    "name": "Harsh Kagathara",
+    "email": "harshkagu29@gmail.com",
+    "url": "https://infusion-infotech.com/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.9",
+    "passport": "^0.4.1",
+    "passport-facebook": "^3.0.0"
+  }
+}

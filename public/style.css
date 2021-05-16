@@ -1,0 +1,12 @@
+.facebook {
+  background-color: #3b5998 !important;
+  color: #fff !important;
+}
+.fa-facebook-f:before,
+.fa-facebook:before {
+  content: "\f09a";
+}
+.card{
+  margin-top: 179px;
+
+}
