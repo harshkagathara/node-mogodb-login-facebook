@@ -19,7 +19,7 @@ After this go to tab 'MyApps' and select the App name. Select the 'Basic' from s
 ![image](https://user-images.githubusercontent.com/49555360/118388523-af4ba880-b642-11eb-8bdc-503b35c4df5f.png)
 
 <br>
-<b>Proflie Page :-</b>
+<b>Profile Page :-</b>
 
 ![image](https://user-images.githubusercontent.com/49555360/118388534-c25e7880-b642-11eb-95d4-d969c86b8a46.png)
 
